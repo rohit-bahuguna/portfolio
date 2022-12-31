@@ -1,5 +1,115 @@
 let displayEl = document.querySelector('.project-display');
+
 let projects = [
+	{
+		background: 'green',
+		image: 'images/photography.png',
+		heading: 'Photography Portfolio',
+		tech: [
+			{
+				span: 'html',
+				used: 'HTML'
+			},
+			{
+				span: 'css',
+				used: 'CSS'
+			},
+			{
+				span: 'bootstrap',
+				used: 'BootStrap'
+			}
+		],
+		url1: 'https://github.com/rohit-bahuguna/HTML---CSS-Mini-Project',
+		url2: 'https://rohit-bahuguna.github.io/HTML---CSS-Mini-Project/'
+	},
+	{
+		background: 'blue',
+		image: 'images/weather.png',
+		heading: 'Weather App',
+		tech: [
+			{
+				span: 'html',
+				used: 'HTML'
+			},
+			{
+				span: 'css',
+				used: 'CSS'
+			},
+
+			{
+				span: 'react',
+				used: 'React JS'
+			}
+		],
+		url1: 'https://github.com/rohit-bahuguna/weather-app-by-rohit',
+		url2: 'https://csb-nw0poz.netlify.app/'
+	},
+	{
+		background: 'pink',
+		image: 'images/gameVilla.png',
+		heading: 'Game Villa',
+		tech: [
+			{
+				span: 'html',
+				used: 'HTML'
+			},
+			{
+				span: 'css',
+				used: 'CSS'
+			},
+
+			{
+				span: 'js',
+				used: 'JavaScript'
+			}
+		],
+		url1: 'https://github.com/rohit-bahuguna/weather-app-by-rohit',
+		url2: 'https://csb-nw0poz.netlify.app/'
+	},
+	{
+		background: 'orange',
+		image: 'images/api.png',
+		heading: 'E-commerce API',
+		tech: [
+			{
+				span: 'node',
+				used: 'Node JS'
+			},
+			{
+				span: 'express',
+				used: 'Express'
+			},
+
+			{
+				span: 'mongo',
+				used: 'Mongo DB'
+			}
+		],
+		url1: 'https://github.com/rohit-bahuguna/myStore-Backend.git',
+		url2: 'https://mystore-api.up.railway.app/api/v1/product'
+	},
+	{
+		background: 'red',
+		image: 'images/myStore.png',
+		heading: 'My Store (E-commerce App)',
+		tech: [
+			{
+				span: 'react',
+				used: 'React JS'
+			},
+			{
+				span: 'redux',
+				used: 'Redux'
+			},
+
+			{
+				span: 'bootstrap',
+				used: 'BootStrap'
+			}
+		],
+		url1: 'https://github.com/rohit-bahuguna/myStore-Backend.git',
+		url2: 'https://mystore-api.up.railway.app/api/v1/product'
+	},
 	{
 		background: 'green',
 		image: 'images/DoYouKnowMe.jpeg',
@@ -249,6 +359,7 @@ projects.map((value, index) => {
 		.used}</span>
             <span class="span-${value.tech[2].span}">${value.tech[2]
 		.used}</span>
+		
           </div>
           <div class="code-buttons display">
             <a

@@ -20,7 +20,9 @@
 .orange {
 	background-color: rgb(195, 160, 96);
 }
-
+.red {
+	background-color: rgba(244, 238, 75, 0.704);
+}
 .blue {
 	background-color: rgb(138, 138, 189);
 }
@@ -94,6 +96,26 @@ h3 {
 .span-react {
 	background-color: green;
 	color: white;
+}
+.span-redux {
+	background-color: rgb(255, 2, 2);
+	color: white;
+}
+.span-mongo {
+	background-color: rgb(53, 255, 2);
+	color: rgb(0, 0, 0);
+}
+.span-bootstrap {
+	background-color: rgb(100, 4, 234);
+	color: beige;
+}
+.span-express {
+	background-color: rgb(4, 234, 230);
+	color: rgb(16, 16, 16);
+}
+.span-node {
+	background-color: rgb(5, 94, 32);
+	color: rgb(247, 247, 237);
 }
 
 .about .code-buttons a {
