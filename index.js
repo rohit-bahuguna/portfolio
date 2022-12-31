@@ -108,7 +108,7 @@ let projects = [
 			}
 		],
 		url1: 'https://github.com/rohit-bahuguna/myStore-Backend.git',
-		url2: 'https://mystore-api.up.railway.app/api/v1/product'
+		url2: 'https://my-store-by-rohitbahuguna.netlify.app'
 	},
 	{
 		background: 'green',
