@@ -63,8 +63,8 @@ let projects = [
 				used: 'JavaScript'
 			}
 		],
-		url1: 'https://github.com/rohit-bahuguna/weather-app-by-rohit',
-		url2: 'https://csb-nw0poz.netlify.app/'
+		url1: 'https://github.com/rohit-bahuguna/JS-Mini-Project-Game-villa.git',
+		url2: 'https://game-villa-by-rohit-bahuguna.netlify.app/'
 	},
 	{
 		background: 'orange',
@@ -107,7 +107,7 @@ let projects = [
 				used: 'BootStrap'
 			}
 		],
-		url1: 'https://github.com/rohit-bahuguna/myStore-Backend.git',
+		url1: 'https://github.com/rohit-bahuguna/mystore.git',
 		url2: 'https://my-store-by-rohitbahuguna.netlify.app'
 	},
 	{
