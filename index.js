@@ -281,7 +281,7 @@ let projects = [
 	{
 		background: 'blue',
 		image: 'images/triangles.png',
-		heading: 'Lets have Fun with Triangles (Mark12)',
+		heading: 'Lets have Fun with Triangles (Mark12) Working',
 		tech: [
 			{
 				span: 'html',
@@ -296,13 +296,13 @@ let projects = [
 				used: 'Javascript'
 			}
 		],
-		url1: 'https://github.com/rohit-bahuguna/Do-you-know-me-CLI-quiz.git',
-		url2: 'https://replit.com/@rohitbahuguna2/Do-you-know-me-CLI-quiz?v=1'
+		url1: '',
+		url2: ''
 	},
 	{
 		background: 'orange',
 		image: 'images/birthday.jpg',
-		heading: 'Is Your Birthday Palindrome? (Mark13)',
+		heading: 'Is Your Birthday Palindrome? (Mark13) Working',
 		tech: [
 			{
 				span: 'html',
@@ -317,13 +317,13 @@ let projects = [
 				used: 'Javascript'
 			}
 		],
-		url1: 'https://github.com/rohit-bahuguna/Do-you-know-me-CLI-quiz.git',
-		url2: 'https://replit.com/@rohitbahuguna2/Do-you-know-me-CLI-quiz?v=1'
+		url1: '',
+		url2: ''
 	},
 	{
 		background: 'blue',
 		image: 'images/profitloss.jpg',
-		heading: 'Check out your Profit/Loss (Mark14)',
+		heading: 'Check out your Profit/Loss (Mark14) ',
 		tech: [
 			{
 				span: 'html',
