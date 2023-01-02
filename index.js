@@ -175,8 +175,8 @@ let projects = [
 	},
 	{
 		background: 'pink',
-		image: 'images/minions.avif',
-		heading: ' pending (Mark7)',
+		image: 'images/morse.png',
+		heading: ' Morse Code Translator (Mark7)',
 		tech: [
 			{
 				span: 'html',
@@ -191,8 +191,8 @@ let projects = [
 				used: 'Javascript'
 			}
 		],
-		url1: 'https://github.com/rohit-bahuguna/Do-you-know-me-CLI-quiz.git',
-		url2: 'https://replit.com/@rohitbahuguna2/Do-you-know-me-CLI-quiz?v=1'
+		url1: 'https://github.com/rohit-bahuguna/Morse-Code-Translator.git',
+		url2: 'https://morse-code-translator-by-rohit.netlify.app/'
 	},
 	{
 		background: 'orange',
@@ -212,8 +212,8 @@ let projects = [
 				used: 'React'
 			}
 		],
-		url1: 'https://github.com/rohit-bahuguna/Do-you-know-me-CLI-quiz.git',
-		url2: 'https://replit.com/@rohitbahuguna2/Do-you-know-me-CLI-quiz?v=1'
+		url1: 'https://github.com/rohit-bahuguna/KNOW-YOUR-EMOJI.git',
+		url2: 'https://know-your-emoji-by-rohit-bahuguna.netlify.app/'
 	},
 	{
 		background: 'pink',
@@ -277,48 +277,6 @@ let projects = [
 		],
 		url1: 'https://github.com/rohit-bahuguna/Is-Your-BirthDay-Lucky-.git',
 		url2: 'https://is-your-birthday-lucky-by-rohit.netlify.app/'
-	},
-	{
-		background: 'blue',
-		image: 'images/triangles.png',
-		heading: 'Lets have Fun with Triangles (Mark12) Working',
-		tech: [
-			{
-				span: 'html',
-				used: 'HTML'
-			},
-			{
-				span: 'css',
-				used: 'CSS'
-			},
-			{
-				span: 'js',
-				used: 'Javascript'
-			}
-		],
-		url1: '',
-		url2: ''
-	},
-	{
-		background: 'orange',
-		image: 'images/birthday.jpg',
-		heading: 'Is Your Birthday Palindrome? (Mark13) Working',
-		tech: [
-			{
-				span: 'html',
-				used: 'HTML'
-			},
-			{
-				span: 'css',
-				used: 'CSS'
-			},
-			{
-				span: 'js',
-				used: 'Javascript'
-			}
-		],
-		url1: '',
-		url2: ''
 	},
 	{
 		background: 'blue',
