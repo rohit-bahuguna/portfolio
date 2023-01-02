@@ -48,9 +48,11 @@ nav {
 .blog-container p {
 	color: #cacaca;
 	padding-left: 10px;
+	text-align: left;
 }
 
 .blog-container h2 {
 	padding-bottom: 10px;
 	padding-left: 10px;
+	text-align: center;
 }

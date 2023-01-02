@@ -6,7 +6,9 @@
 	box-sizing: border-box;
 	font-family: "Work Sans", sans-serif;
 }
-
+a {
+	text-decoration: none;
+}
 :root {
 	--primary-color: #ffffff;
 	--secondary-color: #4e4e4e;
