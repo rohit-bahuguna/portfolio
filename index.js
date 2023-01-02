@@ -338,8 +338,8 @@ let projects = [
 				used: 'Javascript'
 			}
 		],
-		url1: 'https://github.com/rohit-bahuguna/Do-you-know-me-CLI-quiz.git',
-		url2: 'https://replit.com/@rohitbahuguna2/Do-you-know-me-CLI-quiz?v=1'
+		url1: 'https://github.com/rohit-bahuguna/Profit-Loss-Calculator.git',
+		url2: 'https://profit-loss-calculator-by-rohit.netlify.app/'
 	}
 ];
 let html = '';
