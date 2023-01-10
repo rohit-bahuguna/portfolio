@@ -150,7 +150,7 @@ let projects = [
 			}
 		],
 		url1: 'https://github.com/rohit-bahuguna/-CLI-Fandom-Quiz-App.git',
-		url2: 'https://replit.com/@rohitbahuguna2/CLI-Fandom-Quiz-App'
+		url2: 'https://replit.com/@rohitbahuguna2/CLI-Fandom-Quiz-App?v=1'
 	},
 	{
 		background: 'green',
