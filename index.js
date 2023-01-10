@@ -149,8 +149,8 @@ let projects = [
 				used: ''
 			}
 		],
-		url1: 'https://github.com/rohit-bahuguna/Do-you-know-me-CLI-quiz.git',
-		url2: 'https://replit.com/@rohitbahuguna2/Do-you-know-me-CLI-quiz?v=1'
+		url1: 'https://github.com/rohit-bahuguna/-CLI-Fandom-Quiz-App.git',
+		url2: 'https://replit.com/@rohitbahuguna2/CLI-Fandom-Quiz-App'
 	},
 	{
 		background: 'green',
