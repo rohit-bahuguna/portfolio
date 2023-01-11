@@ -4,7 +4,7 @@ let displayEl = document.querySelector('.project-display');
 window.addEventListener('load', async () => {
 	const projects = await fetchProjects();
 
-	projects.map((value, index) => {
+	projects.map(value => {
 		let project = `
     <div class="row-elements ${value.background}">
         <div class="image">
